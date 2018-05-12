@@ -1,0 +1,34 @@
+_repo: Mammals-from-Southeastern-Alaska_32159
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Findley, James S. (James Smith)
+    alias: Findley, James Smith
+    birthdate: 1926
+    gutenberg_agent_id: '35694'
+    url: http://www.gutenberg.org/2009/agents/35694
+  - agent_name: Baker, Rollin H. (Rollin Harold)
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '34893'
+    url: http://www.gutenberg.org/2009/agents/34893
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2010-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32159'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mammals -- Alaska'
+- !lcc 'QH'
+title: Mammals from Southeastern Alaska
+url: http://www.gutenberg.org/ebooks/32159
